@@ -12,4 +12,5 @@ javac -d out --module-source-path . --module com.udacity.flight,com.udacity.hote
 
 
 Run the program with the next command:
+
 java --module-path out --module com.udacity.packagesearch/com.udacity.packagesearch.search.Main
